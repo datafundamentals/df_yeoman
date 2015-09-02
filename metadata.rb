@@ -1,0 +1,7 @@
+name 'df_yeoman'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures df_yeoman'
+long_description 'Installs/Configures df_yeoman'
+version '0.1.0'
